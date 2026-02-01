@@ -8,7 +8,7 @@ Personal portfolio website built using Laravel to showcase my projects, skills a
 - Projects showcase
 - Skills section
 - Contact form
-- Admin panel (optional)
+- Admin panel 
 
 ## Tech Stack
 - Laravel
